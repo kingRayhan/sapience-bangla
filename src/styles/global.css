@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Noto Sans Bengali";
+  src: url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali-Bold.eot");
+  src: url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali-Bold.woff2")
+      format("woff2"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali-Bold.woff")
+      format("woff"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali-Bold.ttf")
+      format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans Bengali";
+  src: url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali.eot");
+  src: url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali.eot?#iefix")
+      format("embedded-opentype"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali.woff2")
+      format("woff2"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali.woff") format("woff"),
+    url("../assets/fonts/Noto-Sans-Bengali/NotoSansBengali.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body,
+html,
+p {
+  font-family: "Noto Sans Bengali";
+}
