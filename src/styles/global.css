@@ -32,3 +32,7 @@ html,
 p {
   font-family: "Noto Sans Bengali";
 }
+
+.content-wrapper p {
+  font-size: 1.3rem;
+}
