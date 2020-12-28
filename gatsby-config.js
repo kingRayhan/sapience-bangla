@@ -11,7 +11,7 @@ module.exports = {
           description: "A brief history of humankind",
         },
         sidebarCategories: {
-          null: ["index", "মূল-বই-প্রসঙ্গে"],
+          null: ["index", "মূল-বই-প্রসঙ্গে", "ইতিহাসের-দিনলিপি"],
           "বুদ্ধিভিত্তিক বিপ্লব": ["chapter1/নিতান্ত-সাধারণ-একটি-প্রাণীর-গল্প"],
         },
       },
